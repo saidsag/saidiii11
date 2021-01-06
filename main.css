@@ -1,9 +1,9 @@
-  @import url('https://fonts.googleapis.com/css?family=Chicle');
-  body {
-    font-family: 'Chicle', cursive;
-    background: #73ecff;
-  }
+@import url("https://fonts.googleapis.com/css?family=Chicle");
+body {
+  font-family: "Chicle", cursive;
+  background: rgb(87, 87, 107);
+}
 
-  main {
-    min-height: 100vh;
-  }
+main {
+  min-height: 100vh;
+}
